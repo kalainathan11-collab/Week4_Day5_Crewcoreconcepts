@@ -1,0 +1,8 @@
+@"
+.venv/
+.crewai/
+__pycache__/
+*.pyc
+.env
+.streamlit/
+"@ | Set-Content .gitignore
