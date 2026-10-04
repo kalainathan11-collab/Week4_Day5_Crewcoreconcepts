@@ -6,3 +6,5 @@ __pycache__/
 .env
 .streamlit/
 "@ | Set-Content .gitignore
+chroma_db/
+agent_trace.log

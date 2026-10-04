@@ -1,0 +1,24 @@
+Leave Policy Report
+
+Internal Documentation:
+- Annual Leave: Employees receive 20 paid vacation days per calendar year.
+
+External Benchmarks for 2024:
+- Statutory paid annual leave varies by country.
+- Most industrialized countries, except the US, mandate minimum paid leave entitlements.
+- France, Spain, and Brazil each mandate 30 paid leave days per year, which is above the global average.
+- The United States has no statutory minimum for paid annual leave.
+- Paid public holidays are generally not counted in annual leave entitlements.
+- Statutory leave often requires a qualifying period (commonly one year of continuous service) and can be prorated based on service duration.
+- Additional types of paid leave, such as parental leave and sick leave, are usually separate from annual leave.
+- European countries tend to have the most generous annual leave policies.
+
+Comparison:
+- The internal policy provides 20 paid vacation days annually.
+- This is below the generous 30 days mandated in some countries like France but above the US, which has no mandatory leave.
+- The internal leave provision is approximately aligned with common ranges found globally.
+
+Summary:
+Your company's leave policy of 20 paid vacation days per year is a competitive and standard benefit relative to global benchmarks, though it is less generous than some European countries. Additional leave entitlements may be considered separately.
+
+--- End of Report ---
